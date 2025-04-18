@@ -32,6 +32,12 @@ A fully responsive and visually engaging **Hospital Website** built using **HTML
 
 Made with ❤️ by Saman Fatima
 
+📬 Contact Saman Fatima
+
+📧 Email: samanfatima166@gmail.com
+
+📷 Instagram: @book.worm.bliss
+
 If you like this project, please ⭐ star the repo!
 Have suggestions or ideas? Open an issue or share your feedback — I’d love to improve it!
 
